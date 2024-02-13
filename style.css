@@ -26,6 +26,12 @@ body {
 
 .title {
     padding-top: 16px;
+    cursor: pointer;
+}
+
+.title:hover {
+    color: lightblue;
+
 }
 
 .movie_img_rounded {
